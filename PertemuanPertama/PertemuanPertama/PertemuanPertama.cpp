@@ -8,7 +8,7 @@ int main()
 	count << " masukan nJejari = ";
 	//display "masukan jejari"
 	cin >> nJejari;
-	//accept "njejari"
+	//accept "njejari= "
 	nLuas = 3.14 * nJejari + nJejari;
 	cout << "luasnya =" << nLuas << endl;
 
